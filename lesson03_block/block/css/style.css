@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+.block {
+
+}
+
+/* div {
+    display: block;
+    width: 100px;
+    height: 200px;
+    border-bottom: 1px solid red;
+    border-left: 1px solid #000;
+    border-right: 3px solid green;
+    border-top: 5px solid blue;
+    border-radius: 10%;
+    padding: 10px 20px 30px 40px;
+    padding-left: 30px;
+    margin: 30px;
+}
+*/
+.container{
+    width: 400px;
+}
+.block {
+    width: 100%;
+    height: 100px;
+}
+.orange {
+    background-color: orange;
+    padding-top: 30px;
+    text-align:center;
+}
+.block2 {
+    width: 50%;
+    height: 100%;
+    float: right;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}

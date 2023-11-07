@@ -1,0 +1,27 @@
+/* * {
+    margin: auto;
+} */
+.center {
+    text-align: center;
+    margin: auto;
+}
+body {
+    width: 1000px;
+}
+p{
+    margin: 0px;
+    width: 100%;
+}
+.title {
+    font-size: 50px;
+    font-weight: 600;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+.formula {
+    background: pink;
+    width: 100px;
+    margin: auto;
+    font-size: large;
+    font-family: 'Montserrat', sans-serif;
+}
